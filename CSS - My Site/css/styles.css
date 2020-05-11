@@ -1,0 +1,130 @@
+body{
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+
+h1{
+  margin: 50px 0 0 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 562.5%;
+  color: #66BFBF;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin-bottom: 0px;
+}
+
+#title{
+  font-size: 1.5rem;
+}
+
+.topcontainer{
+  background-color: #EAF6F6;
+  margin: 0px 0px 10px 0px;
+  padding-top: 100px;
+}
+
+.middlecontainer{
+}
+
+.bottomcontainer{
+  background-color: #66BFBF;
+  padding: 0 0 10px;
+}
+
+.photo{
+  max-height: 200px;
+  max-width: 100%;
+  border-radius: 50%;
+}
+
+.topcloud{
+  position: absolute;
+  top: 30px;
+  right: 300px;
+}
+
+.bottomcloud{
+  position: absolute;
+  bottom: 450px;
+  left: 200px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skillimageleft{
+  width:25%;
+  float: left;
+  margin: 0 30px 10px 0;
+}
+
+.skillimageright{
+  width:30%;
+  float: right;
+  margin: 0 0 10px 30px;
+}
+
+.intro{
+  width:50%;
+  margin: 0 auto 0 auto;
+}
+
+.line{
+  width: 10%;
+  border-top: 10px dotted #EAF6F6;
+  border-left: none;
+  border-bottom: none;
+  border-right: none;
+  margin: 100px auto 100px auto;
+}
+
+.button {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 10px;
+   color: #FFFFFF;
+   font-family: sans-serif;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 12px;
+   background-color: #66BFBF;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin: 20px 0 50px 0;
+}
+
+.footer-link{
+  color: #11999E;
+  margin: 40px 20px 50px 20px;
+  font-size: 15px;
+  display: inline-block;
+  font-style: normal;
+  font-family: 'Montserrat' sans-serif;
+  text-decoration: none;
+}
+
+.copyright{
+  color: #EAF6F6;
+  font-size: 10px;
+  margin-top: 0px;
+  padding-bottom: 10px;
+}
